@@ -12,3 +12,4 @@ RUN mamba update --quiet --file /tmp/conda-linux-64.lock \
 
 # This is a test comment to trigger GitHub Actions
 #This is a SECOND test comment to trigger GitHub Actions
+#This is a THIRD test comment to trigger GitHub Actions
