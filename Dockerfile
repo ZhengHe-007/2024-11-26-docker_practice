@@ -11,3 +11,4 @@ RUN mamba update --quiet --file /tmp/conda-linux-64.lock \
     && fix-permissions "/home/${NB_USER}"
 
 # This is a test comment to trigger GitHub Actions
+#This is a SECOND test comment to trigger GitHub Actions
